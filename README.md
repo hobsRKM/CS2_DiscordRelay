@@ -11,9 +11,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">K4ryuu</h1>
+  <h1 align="center">This is Enhanced version of k4 Relay</h1>
   <h3 align="center">CS2 Chat Relay</h3>
-
+  <img src="https://github.com/hobsRKM/CS2_DiscordRelayEnhanced/assets/11420858/86c487d0-55fc-4e3f-834c-5639bccf0f32"/>
   <p align="center">
     An awesome CS2 server addon created with <a href="https://github.com/roflmuffin/CounterStrikeSharp"><strong>CounterStrikeSharp</strong></a>
     <br />
@@ -74,22 +74,6 @@ To use this server addon, you'll need the following dependencies installed:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Support My Work
-
-I offer various ways to support my journey:
-
-- 💬 **Request Private Paid Jobs:** Got a specific project in mind? Let's chat, and I'll provide a quote.
-- 🎁 **Subscribe to My Tiers:** Join one of my subscription tiers for exclusive benefits, early access to projects, and personalized support.
-- ☕ **Buy Me a Coffee:** One-time donations keep me motivated and my creativity flowing.
-- 💼 **Shop from My Paid Resources:** Explore and purchase resources I've crafted for private use.
-
-Your support keeps my creative engine running and allows me to share knowledge with the community. Thanks for being part of my journey.
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/k4ryuu">
-<img src="https://img.buymeacoffee.com/button-api/?text=Support My Work&emoji=☕&slug=k4ryuu&button_colour=FF5F5F&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" />
-</a>
-</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,9 +156,5 @@ Distributed under the GPL-3.0 License. See `LICENSE.md` for more information.
 
 <!-- CONTACT -->
 
-## Contact
-
-- **Discord:** [Discord Server](https://discord.gg/peBZpwgMHb)
-- **Email:** k4ryuu@icloud.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
