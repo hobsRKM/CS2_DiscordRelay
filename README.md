@@ -91,7 +91,7 @@ Before you begin, ensure you have the following prerequisites:
 
 ### Installation
 
-1. **Download the Addon:** Start by downloading the addon from the [GitHub Releases Page](https://github.com/K4ryuu/CS2_ChatRelay/releases). Choose the latest release version.
+1. **Download the Addon:** Start by downloading the addon from the [GitHub Releases Page]([https://github.com/K4ryuu/CS2_ChatRelay/releases](https://github.com/hobsRKM/CS2_DiscordRelayEnhanced/releases)). Choose the latest release version.
 
 2. **Extract the Addon:** After downloading, extract the contents of the addon to the counterstrikesharp/plugins directory on your server. Inside the plugins folder, you should have a folder named exactly as the project dll. From the releases, you find it pre zipped with the correct name.
 
