@@ -18,11 +18,8 @@
     An awesome CS2 server addon created with <a href="https://github.com/roflmuffin/CounterStrikeSharp"><strong>CounterStrikeSharp</strong></a>
     <br />
     <br />
-    <a href="https://github.com/K4ryuu/CS2_ChatRelay/releases">Download</a>
-    ·
-    <a href="https://github.com/K4ryuu/CS2_ChatRelay/issues/new?assignees=K4ryuu&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
-    ·
-    <a href="https://github.com/K4ryuu/CS2_ChatRelay/issues/new?assignees=K4ryuu&labels=enhancement&projects=&template=feature_request.md&title=%5BREQ%5D">Request Feature</a>
+    <a href="[https://github.com/K4ryuu/CS2_ChatRelay/releases](https://github.com/hobsRKM/CS2_DiscordRelayEnhanced/releases)">Download</a>
+  
   </p>
 </div>
 
